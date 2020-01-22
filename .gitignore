@@ -2,6 +2,7 @@
 !/.gitignore
 !/install
 !/README*
+!/logo.jpg
 /assets/*
 /assets/plugins/*
 !/assets
